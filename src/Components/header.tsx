@@ -27,7 +27,7 @@ export default function Header() {
       <div className="container mx-auto max-w-screen-xl flex h-16 items-center justify-between px-6">
         <div className="flex items-center gap-2">
           <Link href="/" className="font-bold text-xl">
-            John<span className="text-primary">Doe</span>
+            Andrew<span className="text-primary">Gregory W</span>
           </Link>
         </div>
 
